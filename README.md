@@ -4,7 +4,7 @@
 
 A beautifully crafted digital Tasbih (Islamic prayer beads) application built with React, Vite, and Tailwind CSS. This elegant prayer counter helps Muslims perform dhikr (remembrance of Allah) with a premium, spiritually-inspired interface featuring a dark night-sky aesthetic, golden accents, and authentic Islamic design elements.
 
-![Digital Tasbih Counter App Live Preview](https://digital-tasbih-counter-react-app.netlify.app/)
+[Digital Tasbih Counter App Live Preview](https://digital-tasbih-counter-react-app.netlify.app/)
 
 ## ✨ Features
 
@@ -68,7 +68,8 @@ A beautifully crafted digital Tasbih (Islamic prayer beads) application built wi
 git clone https://github.com/Rahima-Akter/digital-tasbih-counter-react-app.git
 
 # Navigate into the project directory
-cd digital-tasbih
+cd digital-tasbih / or your desired path
+
 ```
 
 ### Step 2: Install Dependencies
@@ -223,7 +224,6 @@ This Digital Tasbih was crafted with deep respect for Islamic aesthetics and the
 
 - All code, styling, and component architecture was generated autonomously based on natural language specifications
 - The implementation followed detailed design requirements for Islamic authenticity and premium aesthetics
-- No human-written code was manually composed - the entire codebase emerged from AI generation
 - This demonstrates the capability of AI to create production-ready applications with cultural sensitivity and technical excellence
 
 The AI system utilized React best practices, Tailwind CSS utility patterns, and deep understanding of both web development and Islamic design principles to produce this finished application.
@@ -254,4 +254,4 @@ The AI system utilized React best practices, Tailwind CSS utility patterns, and 
 
 **"And the remembrance of Allah is greater."** — *Qur'an 29:45*
 
-*Built with ☪ for the Ummah*
+*Built with ❤️ for the Ummah*
